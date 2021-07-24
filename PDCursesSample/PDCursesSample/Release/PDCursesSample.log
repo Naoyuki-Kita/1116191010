@@ -1,0 +1,13 @@
+﻿  fileIO.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincontypes.h(103,1): warning C4005:  'MOUSE_MOVED': マクロが再定義されました。
+C:\Users\lanra\source\repos\1116191010\PDCursesSample\PDCursesLib\include\curses.h(189): message :  'MOUSE_MOVED' の以前の定義を確認してください
+C:\Users\lanra\source\repos\1116191010\PDCursesSample\PDCursesSample\fileIO.cpp(65,7): warning C4101:  'maxMissNumValue': ローカル変数は 1 度も使われていません。
+C:\Users\lanra\source\repos\1116191010\PDCursesSample\PDCursesSample\fileIO.cpp(70,7): warning C4101:  'timeLimitValue': ローカル変数は 1 度も使われていません。
+C:\Users\lanra\source\repos\1116191010\PDCursesSample\PDCursesSample\fileIO.cpp(60,7): warning C4101:  'questionsNumValue': ローカル変数は 1 度も使われていません。
+LINK : warning LNK4098: defaultlib 'LIBCMT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  コード生成しています。
+  4 of 18 functions (22.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  PDCursesSample.vcxproj -> C:\Users\lanra\source\repos\1116191010\PDCursesSample\Release\PDCursesSample.exe
